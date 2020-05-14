@@ -58,6 +58,6 @@ body {
     padding-bottom: 3cm;
 }
 
-.block:hover {
+.block img:hover {
     transform:scale(1.2);
 }
