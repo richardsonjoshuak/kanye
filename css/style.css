@@ -57,3 +57,7 @@ body {
 .block {
     padding-bottom: 3cm;
 }
+
+.block:hover {
+    transform:scale(1.2);
+}
